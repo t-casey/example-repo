@@ -22,3 +22,4 @@ because it's flippin awesome!
 - [code](/code)
 - [data](/data)
 - [references](/reference)
+- [session 3 activities](/sessions/01-intro/3/activities)
