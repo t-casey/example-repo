@@ -16,3 +16,9 @@
 ---
 ### Why FinTech??
 because it's flippin awesome!
+
+---
+### Folder Index
+- [code](/code)
+- [data](/data)
+- [references](/reference)
